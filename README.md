@@ -89,10 +89,6 @@ Aqui documentaremos marcos importantes e conquistas ao longo da jornada:
 
 > "Dos ifs e ands, construímos o futuro!" 🌟
 
-## 📞 Contato
-
-Para dúvidas ou sugestões sobre a mentoria, entre em contato através do GitHub.
-
 ---
 
 <p align="center">
