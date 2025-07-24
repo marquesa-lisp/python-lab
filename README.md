@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Este repositório é um **laboratório de estudos de Python** criado para a mentoria tech onde estou mentorando o **Marcelo** em sua jornada para se tornar um desenvolvedor de software.
+Este repositório é um **laboratório de estudos de Python**
 
 ## 🎯 Objetivo
 
